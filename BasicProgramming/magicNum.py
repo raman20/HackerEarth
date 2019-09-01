@@ -1,8 +1,9 @@
-# this code converts a string to another whose character ascii value is nearest prime no. and contains only alphabet.
-# sample input:
-# AFREEN   
-# sample output:
-# CGSCCO
+''' 
+ this code converts a string to another whose character ascii value is nearest prime no. and contains only alphabet.
+ sample input:
+ AFREEN   
+ sample output:
+ CGSCCO '''
 
 def prime(a):
     for i in range(2,a):
