@@ -1,6 +1,6 @@
+'''
 https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/
 
-'''
 Alice got a number written in seven segment format where each segment was creatted used a matchstick.
 
 Example: If Alice gets a number 123 so basically Alice used 12 matchsticks for this number.
